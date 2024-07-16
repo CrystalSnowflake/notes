@@ -33,7 +33,7 @@ It is a collection of data in which each element contains the location of the ne
 
 ![Figure a](implementations.webp)
 
-## Point to Void
+### Point to Void
 ```C
 #include<stdio.h>
 #include<stdlib.h>
@@ -61,3 +61,6 @@ int main(){
 i contains 7  
 f contains 23.500000
 ```
+
+
+![image](ss)
